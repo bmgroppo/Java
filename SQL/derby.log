@@ -1,0 +1,36 @@
+Fri Nov 04 15:11:28 BRT 2022 : Apache Derby Servidor de Rede - 10.14.2.0 - (1828579) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Fri Nov 04 15:11:45 BRT 2022:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instância a816c00e-0184-43d7-3449-ffffe71e5b7f
+no diretório de banco de dados C:\Users\bmgro\OneDrive - Educacional\Java\SQL\escola 
+
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.5+9-LTS-191
+user.dir=C:\Program Files\Java\jdk-17.0.5\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\bmgro\OneDrive - Educacional\Java\SQL
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Nov 04 15:11:47 BRT 2022:
+Encerrando a instância a816c00e-0184-43d7-3449-ffffe71e5b7f
+Fri Nov 04 15:11:47 BRT 2022 Thread[DRDAConnThread_3,5,main] (DATABASE = escola), (DRDAID = {2}), Banco de dados 'escola' fechado.
+----------------------------------------------------------------
+Fri Nov 04 15:12:32 BRT 2022:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instância 6ede40af-0184-43d7-3449-ffffe71e5b7f
+no diretório de banco de dados C:\Users\bmgro\OneDrive - Educacional\Java\SQL\escola 
+
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.5+9-LTS-191
+user.dir=C:\Program Files\Java\jdk-17.0.5\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\bmgro\OneDrive - Educacional\Java\SQL
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Nov 04 17:41:57 BRT 2022: Shutting down Derby engine
+----------------------------------------------------------------
+Fri Nov 04 17:41:57 BRT 2022:
+Encerrando a instância 6ede40af-0184-43d7-3449-ffffe71e5b7f
